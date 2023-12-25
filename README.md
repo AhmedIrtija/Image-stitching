@@ -1,2 +1,2 @@
-# Computer-vision
+# Image Stitching
 (Work will be posted soon)
